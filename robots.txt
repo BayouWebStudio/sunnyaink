@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bayouwebstudio.github.io/sunnyaink/sitemap.xml
